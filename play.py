@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+#this is code for quickbot which takes input from keyoardd in form of 'f','r', 'lt' and 'rt' for respective direction. Intel edison can also be connect to any linux computer over the internet with ssh connection which makes it computer controlled robot.
 import mraa
 import time
 import sys

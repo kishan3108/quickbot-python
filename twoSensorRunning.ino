@@ -1,3 +1,5 @@
+// this is the arduino code for quickbot to make it easy to make and understanding the code
+
 #include<Servo.h>
 Servo rightServo;
 Servo leftServo;
